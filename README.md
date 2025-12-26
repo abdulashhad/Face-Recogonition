@@ -1,2 +1,2 @@
 # Face-Recogonition
-Face detection system using computer vision techniques to identify the presence of a human face in a live camera feed. The project focuses on real-time face detection under varying lighting and pose conditions.
+This project implements a real-time face detection system using Haar Cascade classifiers. The system detects whether a human face is present in a live camera feed by identifying facial regions based on Haar-like features. It does not perform identity recognition or face matching. The project demonstrates the use of classical computer vision techniques for fast and efficient face detection under varying lighting and pose conditions.
